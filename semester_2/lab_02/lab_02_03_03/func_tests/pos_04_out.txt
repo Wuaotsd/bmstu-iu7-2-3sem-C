@@ -1,0 +1,2 @@
+Enter size of array: 
+Array: 121 121 232 232 454 454 656 656 44 44 

@@ -1,0 +1,1 @@
+Array was sorted with Selection Sort: -9 -8 -1 0 1 7 60

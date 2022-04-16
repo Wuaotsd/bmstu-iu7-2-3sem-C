@@ -1,0 +1,13 @@
+Input str: 
+Result: Hello 1
+everybody 1
+My 1
+name 1
+is 1
+Dan 1
+I 1
+am 1
+a 1
+programer 2
+and 1
+engineer 1

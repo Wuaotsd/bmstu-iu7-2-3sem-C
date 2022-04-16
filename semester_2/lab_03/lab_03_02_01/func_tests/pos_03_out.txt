@@ -1,0 +1,5 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+Our matrix:
+21 42 3
+30 23 21

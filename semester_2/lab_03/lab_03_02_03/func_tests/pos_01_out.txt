@@ -1,0 +1,5 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+Enter digit '0-9':
+Our matrix:
+45 78 9 23 67

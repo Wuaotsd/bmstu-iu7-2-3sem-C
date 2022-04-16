@@ -1,0 +1,2 @@
+Input str: 
+WORD_ERROR! Entered only one word!

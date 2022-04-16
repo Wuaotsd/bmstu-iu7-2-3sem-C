@@ -1,0 +1,2 @@
+Enter size of array: 
+Array: 232 454 656 44 

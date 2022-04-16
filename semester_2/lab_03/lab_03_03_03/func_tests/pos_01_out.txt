@@ -1,0 +1,8 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+
+Our matrix:
+23 53 67 90 23
+89 23 13 32 45
+88 90 34 123 12
+34 98 24 67 4

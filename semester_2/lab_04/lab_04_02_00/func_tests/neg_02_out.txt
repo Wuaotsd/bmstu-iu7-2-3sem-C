@@ -1,0 +1,2 @@
+Input str: 
+WORD_ERR! The word lenght is upper 16 chars

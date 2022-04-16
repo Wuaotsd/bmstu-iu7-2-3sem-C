@@ -1,0 +1,2 @@
+The first or second number is less than or equal to zero!
+=> the first number - a.

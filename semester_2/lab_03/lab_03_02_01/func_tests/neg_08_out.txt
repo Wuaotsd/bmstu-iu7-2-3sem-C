@@ -1,0 +1,3 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+Warning! All rows and column is deleted!

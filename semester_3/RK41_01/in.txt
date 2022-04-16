@@ -1,0 +1,5 @@
+Petrov 19 5 6 8 1 9 2
+Ivanov 21 10 8 9 8 7 4 5
+Surkov 18 8 9 1 2
+Yusupov 21 10 10 10 10 10
+Mansurov 19 6 6 7 8 9 10

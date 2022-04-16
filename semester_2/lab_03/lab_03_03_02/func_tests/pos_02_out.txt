@@ -1,0 +1,7 @@
+Enter size of matrix mxn:
+Enter elements of matrix:
+
+Our matrix:
+-2 -2 -2 -2 -2
+1 1 1 1 1
+2 2 2 2 2

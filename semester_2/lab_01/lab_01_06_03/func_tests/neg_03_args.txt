@@ -1,0 +1,4 @@
+Enter the coordinates of the point of LINE - xq and yq:
+Enter the coordinates of the point of LINE - xr and yr:
+Enter the coordinates of the point - xp and yp:
+The coordinate entered is incorrect! - xp, yp!

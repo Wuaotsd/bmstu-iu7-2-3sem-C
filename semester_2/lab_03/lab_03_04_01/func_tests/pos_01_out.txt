@@ -1,0 +1,5 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+Our matrix:
+4 3
+1 2

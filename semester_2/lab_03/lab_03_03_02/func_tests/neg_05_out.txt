@@ -1,0 +1,2 @@
+Enter size of matrix mxn:
+Error! The size of matrix is incorrect! Limit is upper!

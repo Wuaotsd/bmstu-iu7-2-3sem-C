@@ -1,0 +1,4 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+Enter digit '0-9':
+Error! The digit is incorrect!

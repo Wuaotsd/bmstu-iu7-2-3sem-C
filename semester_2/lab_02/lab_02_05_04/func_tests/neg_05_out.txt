@@ -1,0 +1,6 @@
+Enter size of array:
+Enter number:
+Enter number:
+Enter number:
+Enter number:
+Error! The number is incorrect!

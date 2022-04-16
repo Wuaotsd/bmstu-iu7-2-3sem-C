@@ -1,0 +1,6 @@
+Input str:
+Result: Hello 7
+everybody 6
+my 6
+friend 6
+

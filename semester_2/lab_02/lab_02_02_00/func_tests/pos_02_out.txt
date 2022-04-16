@@ -1,0 +1,2 @@
+Enter size of array: 
+The array of numbers up avg: 157 56

@@ -1,0 +1,2 @@
+Enter size of array: 
+Array without polindrom-number: 23 32 45 124 80

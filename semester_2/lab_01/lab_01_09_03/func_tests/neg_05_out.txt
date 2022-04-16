@@ -1,0 +1,14 @@
+1
+2
+3
+4
+5
+-f
+Enter value for x:
+Enter next value for x:
+ Enter next value for x:
+ Enter next value for x:
+ Enter next value for x:
+ Enter next value for x:
+
+

@@ -1,0 +1,2 @@
+Enter size of matrix nxm:
+Error! Matrix is not square!

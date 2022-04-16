@@ -1,0 +1,2 @@
+Input str: 
+WORD_ERROR! Only end-signs of words are entered!

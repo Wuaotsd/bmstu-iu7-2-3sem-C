@@ -1,0 +1,4 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+Enter digit '0-9':
+Warning! All rows is deleted!

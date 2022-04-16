@@ -1,0 +1,4 @@
+Enter your number in 10 number system:
+Error: First value is not a number, negative or it is a 0.
+
+

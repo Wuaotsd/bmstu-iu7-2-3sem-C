@@ -1,0 +1,6 @@
+1
+f
+Enter value for x:
+Enter next value for x:
+
+

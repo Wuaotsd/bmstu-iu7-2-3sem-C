@@ -1,0 +1,2 @@
+Input str: 
+ARR_ERROR! The words is upper 16!

@@ -1,0 +1,2 @@
+Enter your number in 10 number system:
+Result: 

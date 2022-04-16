@@ -1,0 +1,11 @@
+Enter size of array: 
+Enter number: 
+Enter number: 
+Enter number: 
+Enter number: 
+Enter number: 
+Enter number: 
+Enter number: 
+Enter number: 
+Enter number: 
+Number of unique figures = 

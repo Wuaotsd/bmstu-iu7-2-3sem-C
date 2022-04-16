@@ -1,0 +1,4 @@
+Enter the first number:
+Enter the second number:
+The first or second number is less than or equal to zero!
+=> the first number - b.

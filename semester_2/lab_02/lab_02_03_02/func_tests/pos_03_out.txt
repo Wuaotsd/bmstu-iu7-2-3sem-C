@@ -1,0 +1,2 @@
+Enter size of array: 
+Array: 2 3 

@@ -1,0 +1,9 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+
+Our matrix:
+-94 -75 -99 -56
+-98 -78 -93 -65
+-493 -891 -395 -345
+-299 -198 -196 -178
+-182 -155 -135 -112

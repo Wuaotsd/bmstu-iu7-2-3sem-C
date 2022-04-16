@@ -1,0 +1,3 @@
+Enter size of matrix nxm: 
+Enter elements of matrix:
+Error! The element(s) of matrix is incorrect!

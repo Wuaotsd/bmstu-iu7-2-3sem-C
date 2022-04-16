@@ -1,0 +1,8 @@
+Input str:
+Result: Hello 4
+everybody 1
+guys 1
+man 1
+JAN 1
+
+

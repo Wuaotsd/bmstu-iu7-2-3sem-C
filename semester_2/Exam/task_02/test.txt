@@ -1,0 +1,4 @@
+hello 1
+friend 0
+absaa 1
+STOP

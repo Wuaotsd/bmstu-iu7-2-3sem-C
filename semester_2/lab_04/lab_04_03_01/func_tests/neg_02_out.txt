@@ -1,0 +1,2 @@
+Input str: 
+Warning! The word lenght is upper 16 chars!

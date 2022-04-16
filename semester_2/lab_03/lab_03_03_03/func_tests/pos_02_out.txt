@@ -1,0 +1,7 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+
+Our matrix:
+-1 -2 -3 -4
+-3 -1 -4 -6
+-5 -23 -1 -5

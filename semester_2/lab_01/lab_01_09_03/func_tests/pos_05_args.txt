@@ -1,0 +1,7 @@
+Enter value for x:
+Enter next value for x:
+ Enter next value for x:
+ Enter next value for x:
+ Enter next value for x:
+ Enter next value for x:
+ Result: 

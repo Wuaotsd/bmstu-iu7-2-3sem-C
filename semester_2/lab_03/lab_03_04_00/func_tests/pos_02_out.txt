@@ -1,0 +1,3 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+Min odd element of matrix under main diagonal: -5

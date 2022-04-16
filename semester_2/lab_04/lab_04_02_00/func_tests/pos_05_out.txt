@@ -1,0 +1,9 @@
+Input str: 
+Result: Hello 6
+my 1
+kil 1
+sa 1
+we 1
+wfw 1
+everybody 5
+

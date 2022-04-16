@@ -1,0 +1,11 @@
+Input str: 
+Result: Hello 1
+everybody 1
+Hi 1
+Ban 1
+Your 1
+name 1
+is 1
+but 1
+you 1
+know 1

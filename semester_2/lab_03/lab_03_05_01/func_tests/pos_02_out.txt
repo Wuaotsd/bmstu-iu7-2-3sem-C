@@ -1,0 +1,9 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+
+Our matrix:
+178 196 198 299 291
+345 395 891 493 489
+65 93 78 98 56
+99 75 94 195 292
+178 196 198 299 291

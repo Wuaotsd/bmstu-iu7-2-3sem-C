@@ -1,0 +1,2 @@
+Input str:
+Result:  a am I Dan is name My Helo

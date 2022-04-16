@@ -1,0 +1,7 @@
+Enter size of matrix nxm:
+Enter elements of matrix:
+Enter digit '0-9':
+Our matrix:
+1 4 5 8
+1 5 8 90
+11 34 56 11

@@ -1,0 +1,6 @@
+Enter size of matrix nxm:
+Our matrix:
+13 12 5 4
+14 11 6 3
+15 10 7 2
+16 9 8 1

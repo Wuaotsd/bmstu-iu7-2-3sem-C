@@ -1,0 +1,2 @@
+Error: First value is not a number, negative or it is a 0.
+

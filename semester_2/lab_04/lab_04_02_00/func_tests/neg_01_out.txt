@@ -1,0 +1,2 @@
+Input str: 
+STR_ERR! The string lenght is upper 256 chars!

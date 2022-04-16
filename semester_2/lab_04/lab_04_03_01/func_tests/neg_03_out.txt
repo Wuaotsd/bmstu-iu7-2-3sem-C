@@ -1,0 +1,2 @@
+Input str: 
+STR_ERROR! The string wasn't entered!

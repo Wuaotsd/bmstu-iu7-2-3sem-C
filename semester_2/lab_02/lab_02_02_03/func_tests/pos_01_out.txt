@@ -1,0 +1,2 @@
+Enter size of array: 
+The array of armstrong number: 1 8

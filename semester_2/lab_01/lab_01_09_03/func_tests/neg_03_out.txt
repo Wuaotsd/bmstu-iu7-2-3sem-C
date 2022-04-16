@@ -1,0 +1,12 @@
+1
+9
+9
+0
+f
+Enter value for x:
+Enter next value for x:
+ Enter next value for x:
+ Enter next value for x:
+ Enter next value for x:
+
+
